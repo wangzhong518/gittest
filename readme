@@ -4,3 +4,5 @@ second line
 dev dev dev
 dev2 dev2 dev2
 master master
+
+--no -ff
