@@ -6,3 +6,4 @@ dev2 dev2 dev2
 master master
 
 --no -ff
+--no-ff master
